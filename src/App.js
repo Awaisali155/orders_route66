@@ -2,7 +2,7 @@ import './App.css';
 // import Navbar from './components/navbar/Navbar';
 // import { Routes, Route } from "react-router-dom"
 
-import OrderPage from './components/navbar/orderPage/OrderPage';
+import OrderPage from './components/orderPage/OrderPage';
 
 function App() {
   return (
